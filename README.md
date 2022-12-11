@@ -14,3 +14,7 @@ Práctica 5: [WayPoints.](https://github.com/Jav1er98/FDV_Practica5)
 Práctica 6: [Sprites 2D.](https://github.com/Jav1er98/FDV_Practica6)
 
 Práctica 7: [Tile Maps.](https://github.com/Jav1er98/FDV_Practica7)
+
+Práctica 8: [Controlador de Camara.](https://github.com/Jav1er98/FDV_Practica8)
+
+Práctica 9: [Técnicas.](https://github.com/Jav1er98/FDV_Practica9)
